@@ -1,0 +1,6 @@
+{
+  "name": "Painel Admin White-Label",
+  "description": "Painel admin premium para gestão financeira e faturamento de adquirenciamento de banking white-label.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
